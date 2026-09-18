@@ -1,3 +1,24 @@
+# Temporal UI (temporalio/ui)
+
+## 프로젝트 개요
+수백만 건의 복잡한 비즈니스 거래와 결제 워크플로우가 어느 단계까지 진행되었는지 실시간으로 모니터링하는 "엔터프라이즈 워크플로우 종합 관제탑"
+시스템 장애가 발생해도 어디서 멈췄는지 즉시 파악하고, 버튼 하나로 실패한 작업을 이전 상태부터 안전하게 복구
+대규모 금융 및 이커머스 기업의 무중단 핵심 비즈니스 로직을 지켜주는 든든한 시각화 대시보드
+
+## 핵심 특징 & 추천 분야
+- 비즈니스관제탑
+- 워크플로우모니터링
+- 장애즉각복구
+- 대규모거래추적
+- 엔터프라이즈대시보드
+
+---
+*이 문서는 오픈소스 큐레이터(Curator-Agent)에 의해 자동 생성된 가이드 문서입니다.*
+
+
+---
+## 기존 CLAUDE.md 내용
+
 # Claude AI Assistant Rules for Temporal UI
 
 SvelteKit + Svelte 5 + TypeScript + TailwindCSS + Holocene design system
